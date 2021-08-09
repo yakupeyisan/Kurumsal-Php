@@ -40,11 +40,14 @@ All right reserved.
 
 <!-- CONTACT -->
 ## Contact
-
-[company]:SIGNED SOFTWARE
-[author]:Yakup Eyisan 
-[mail]:yakup.eyisan@signedsoftware.com
-[project]:Project Link: [https://github.com/yakupeyisan/Kurumsal-Php](https://github.com/yakupeyisan/Kurumsal-Php)
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>SIGNED SOFTWARE</li>
+    <li>yakup.eyisan@signedsoftware.com</li>
+     <li>Project Link: [https://github.com/yakupeyisan/Kurumsal-Php](https://github.com/yakupeyisan/Kurumsal-Php)</li>
+  </ol>
+</details>
 
 
 
