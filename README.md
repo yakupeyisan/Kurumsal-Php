@@ -44,7 +44,7 @@ All right reserved.
   <ol>
     <li>SIGNED SOFTWARE</li>
     <li>yakup.eyisan@signedsoftware.com</li>
-     <li>Project Link: [https://github.com/yakupeyisan/Kurumsal-Php](https://github.com/yakupeyisan/Kurumsal-Php)</li>
+     <li>Project Link:https://github.com/yakupeyisan/Kurumsal-Php</li>
   </ol>
 
 
